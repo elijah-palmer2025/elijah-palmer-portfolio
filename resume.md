@@ -1,9 +1,14 @@
-Elijah Palmer, 2022
+#Elijah Palmer Resume
 
-Work Experience
--Reference Elevations, Structural Evolution
-Education
-McIntosh High School
-Extracurriculars
-n/a
-Skills
+##Employment History
+- Structural Evolution, Reference Elevations, 2022 to Present
+
+##Education History
+- McIntosh High School Class of 2025
+
+##Hobbies
+- instilling civil war within the Polish-Lithuanian Commonwealth
+- listening to music
+- mapping with J.A.C.K. Editor
+- making textures sometimes
+- uploading vids on yt
