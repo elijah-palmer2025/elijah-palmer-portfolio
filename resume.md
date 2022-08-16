@@ -11,4 +11,4 @@
 - listening to music
 - mapping with J.A.C.K. Editor
 - making textures sometimes
-- uploading vids on yt
+- uploading vids on yt (editing included)
