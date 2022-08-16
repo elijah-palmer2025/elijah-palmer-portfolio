@@ -1,12 +1,12 @@
-#Elijah Palmer Resume
+# Elijah Palmer Resume
 
-##Employment History
+## Employment History
 - Structural Evolution, Reference Elevations, 2022 to Present
 
-##Education History
+## Education History
 - McIntosh High School Class of 2025
 
-##Hobbies
+## Hobbies
 - instilling civil war within the Polish-Lithuanian Commonwealth
 - listening to music
 - mapping with J.A.C.K. Editor
