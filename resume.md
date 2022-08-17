@@ -13,4 +13,4 @@
 - making textures sometimes
 - uploading vids on yt (editing included)
 
-[readme.med](https://github.com/elijah-palmer2025/elijah-palmer-portfolio/blob/main/README.md)
+[readme.md](https://github.com/elijah-palmer2025/elijah-palmer-portfolio/blob/main/README.md)
