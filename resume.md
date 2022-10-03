@@ -13,4 +13,7 @@
 - making textures sometimes
 - uploading vids on yt (editing included)
 
+## Typing Speed
+- 29 Words per Minute
+
 [readme.md](https://github.com/elijah-palmer2025/elijah-palmer-portfolio/blob/main/README.md)
