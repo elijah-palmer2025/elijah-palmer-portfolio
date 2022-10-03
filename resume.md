@@ -13,7 +13,7 @@
 - making textures sometimes
 - uploading vids on yt (editing included)
 
-## Typing Speed
+## Typing Skill
 - 29 Words per Minute
 - Keys learned:
   - J, F and Space
