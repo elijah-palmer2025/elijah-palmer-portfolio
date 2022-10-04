@@ -14,7 +14,7 @@
 - uploading vids on yt (editing included)
 
 ## Typing Skill
-- 29 Words per Minute
+- 28 Words per Minute
 - Keys learned:
   - J, F and Space
   - U, R, and K Keys
