@@ -18,5 +18,6 @@
 - Keys learned:
   - J, F and Space
   - U, R, and K Keys
+  - D, E, and I Keys
 
 [readme.md](https://github.com/elijah-palmer2025/elijah-palmer-portfolio/blob/main/README.md)
