@@ -1,5 +1,5 @@
 # elijah-palmer-portfolio
-hi i make VIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIM and this is my portfolio for my ist course at [McIntosh High School](https://www.fcboe.org/mhs)
+ VIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIMVIM das ist eine Manul [McIntosh High School](https://www.fcboe.org/mhs)
 ## Contents
 - [Resume](resume.md)
 - [Programming Languages Table](plt.md)
