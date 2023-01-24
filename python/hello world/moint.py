@@ -1,0 +1,1 @@
+print("WHAT IS POINT FOR MPINT?")
