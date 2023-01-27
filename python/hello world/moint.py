@@ -1,1 +1,1 @@
-print("WHAT IS POINT FOR MPINT?")
+print("WHAT IS POINT FOR MPINT?")j
